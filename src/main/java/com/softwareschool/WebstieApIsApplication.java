@@ -1,4 +1,4 @@
-package com.softwareschool.Webapis;
+package com.softwareschool;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -12,3 +12,6 @@ public class WebstieApIsApplication {
 		System.out.println("hello, mewooo");
 	}
 }
+
+
+
